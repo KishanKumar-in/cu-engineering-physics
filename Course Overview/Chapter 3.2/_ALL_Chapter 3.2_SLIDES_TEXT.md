@@ -1,0 +1,2650 @@
+# ▶︎Chapter 3.2 - All Lecture Slides Text
+
+
+## Fiber Optics PPT 1 (1) (4)
+### Slide 1
+- UNIVERSITY INSTITUTE OF ENGINEERING
+- DEPARTMENT: Engineering Foundations (1-5)
+- Bachelor of Eng
+- in
+- eering: CSE, CSE-Specialization and Non-CSE
+- 1
+- st
+- SEMESTER
+- ENGINEERING PHYSICS
+- 26SPH-141
+- Unit No. 3                     Chapter No. 2                     Lecture No. 39
+- Topic : Fiber optics
+- Dr.
+- Nandni
+- Sharma (E12297)						Assistant Professor
+- Academic Session 2026-27
+- ODD Semester July-Dec 2026
+
+### Slide 2
+- Learning Objectives
+- Objective 1.
+- Students will understand about
+- structure and function of Core, cladding, and buffer coatings.
+- Objective 2.
+- Students will able to understand
+- the concepts of total internal reflection and critical angle
+- .
+
+### Slide 3
+- Definition of Optical fiber
+- An
+- optical fiber
+- is a flexible, transparent fiber made by glass (silica) or plastic to a diameter slightly thicker than that of a human hair.
+- Optical fiber is a dielectric waveguide and ideally has a cylindrical shape.
+- It consists of a core made up of a dielectric material which is surrounded by a cladding made up of a dielectric material of lower refractive index than core.
+- 3
+
+### Slide 4
+- Core
+- Cladding
+- Buffering
+- Core having higher refractive index than cladding
+- 4
+- Figure 2.1  Parts of optical fiber [1]
+- Parts of
+- Optical
+- Fiber
+
+### Slide 5
+- Core
+- –
+- thin glass
+- center of
+- the
+- fiber where
+- light
+- travels
+- Clad
+- d
+- i
+- n
+- g
+- – outer	optic
+- a
+- l material  surrounding
+- the
+- core
+- Buffer Coating-
+- plastic coating that protects  the fiber
+- 5
+
+### Slide 6
+- FIBER
+- MANUFACTURE
+- I-
+- Glass-Glass
+- Fiber
+- Glass
+- as
+- silica (SiO
+- 2
+- ) with
+- refractive Index (RI)
+- of
+- 1.458 at
+- 850nm
+- Addition
+- of GeO
+- 2
+- and P
+- 2
+- O
+- 5
+- increases
+- RI.
+- Addition
+- of B
+- 2
+- O
+- 3
+- and
+- fluorine
+- decreases
+- RI.
+- 6
+- Figure 2.2 Increase or decrease of RI by adding dopants [2].
+
+### Slide 7
+- FIBER
+- MANUFACTURE
+- II- Plastic
+- clad Glass
+- Fiber
+- Glass core
+- and plastic
+- cladding.
+- Higher
+- losses.
+- Short
+- distance
+- (several hundred
+- meters).
+- Reduced
+- cost.
+- Core
+- Silicon resin
+- RI
+- =
+- 1.405 at
+- 850nm
+- Clad
+- is Teflon
+- PEP
+- (
+- Perfluoronated
+- ethylene
+- propylene)
+- with
+- RI
+- =
+- 1.338.
+- Large
+- NA with
+- large RI
+- difference.
+- Core
+- dia
+- of
+- 150 to
+- 600µm.
+- LED as
+- source.
+- I-
+- Glass-Glass
+- Fiber
+- Combinations
+- can
+- be—
+- GeO
+- 2
+- - SiO
+- 2
+- core, SiO
+- 2
+- Cladding.
+- P
+- 2
+- O
+- 5
+- - SiO
+- 2
+- core, SiO
+- 2
+- Cladding.
+- SiO
+- 2
+- core,
+- B
+- 2
+- O
+- 3
+- -SiO
+- 2
+- Cladding.
+- GeO
+- 2
+- -
+- B
+- 2
+- O
+- 3
+- - SiO
+- 2
+- core,
+- B
+- 2
+- O
+- 3
+- -SiO
+- 2
+- Cladding.
+- 7
+
+### Slide 8
+- FIBER
+- MANUFACTURE
+- Remember!
+- Germanium dioxide and phosphorus pentaoxide increase the refractive index of glass
+- Boron oxide decreases the refractive index of glass.
+- These oxides are known as dopants.
+- Changing composition of the mixture during the process influences refractive index profile of the preform
+- III-
+- Plastic
+- Fiber
+- Very
+- short
+- distance
+- (100m
+- max).
+- High
+- attenuation.
+- Low cost,
+- tough, durable,
+- inexpensive.
+- Core
+- dia
+- of
+- 110 to
+- 1400µm.
+- LED as
+- source.
+- Polystyrene
+- core (1.6),
+- methyl methacrylate
+- clad (1.49).  NA =
+- 0.6.
+- Polymethyl
+- methacrylate core(1.49),
+- its
+- co-
+- polymer(1.40),
+- NA
+- =
+- 0.5
+- 8
+
+### Slide 9
+- Transmission of Light Through Optical  Fibers
+- Its total Internal
+- Reflection
+- (a)
+- 9
+- Figure 2.3 (a) & (b) Diagram of total internal reflection in different type of optical fiber [3].
+- (b)
+
+### Slide 10
+- Ray
+- Theory
+- Transmission
+- 10
+- Refractive
+- index
+- The
+- index
+- of refraction
+- of
+- a
+- material
+- is
+- the
+- ratio
+- of the
+- speed
+- of light
+- in a
+- vac
+- u
+- um to
+- the
+- speed
+- of light
+- in
+- the
+- material
+- n
+- =
+- c/v
+- The
+- factor
+- n
+- is
+- the
+- index
+- of
+- refraction
+- (or
+- refractive
+- index)
+- of
+- the
+- medium.
+- For
+- air
+- and
+- gases
+- n ~ 1.
+- At
+- optic
+- frequencies, the
+- refractive
+- index of
+- water
+- is
+- 1.33.
+- Glass has
+- many
+- compositions, each with
+- a
+- slightly
+- different
+- n.
+- An
+- approximate
+- refractive
+- index
+- of 1.5
+- is
+- representative  for
+- the
+- silica
+- glasses
+- used
+- in
+- fibers;
+- more
+- precise
+- values for
+- these glasses lie
+- between ~
+- 1.45
+- and
+- ~
+- 1.48
+- .
+
+### Slide 11
+- Ray
+- Theory
+- Transmission
+- 11
+
+### Slide 12
+- Critical
+- Angle
+- (
+- 
+- c
+- )
+- 12
+- The critical angle is the angle of incidence where the angle of refraction is
+- 90°.
+
+### Slide 13
+- Total
+- internal
+- reflection
+- At angles of incidence
+- 
+- 1
+- >
+- 
+- c
+- the light is totally reflected
+- back
+- into
+- the
+- i
+- n
+- cidence h
+- ig
+- h
+- e
+- r
+- r
+- e
+- f
+- r
+- a
+- c
+- t
+- i
+- v
+- e i
+- n
+- d
+- e
+- x
+- med
+- i
+- um
+- .  Th
+- i
+- s
+- i
+- s
+- kno
+- w
+- n
+- a
+- s
+- t
+- o
+- tal  internal
+- reflection.
+- 13
+
+### Slide 14
+- 14
+- Air
+- -----------------------------------------------------------------------1.0
+- 0
+- Water
+- -------------------------------------------------------------------
+- -
+- 1.33
+- Magnesium
+- fluoride
+- -------------------------------------------------
+- -
+- 1.38
+- Fused
+- silica
+- (SiO
+- 2
+- )----------------------------------------------------
+- -
+- 1.46
+- Sapphire
+- (Al
+- 2
+- O
+- 3
+- )------------------------------------------------------
+- -
+- 1.8
+- 0
+- Lithium
+- niobate
+- (LiNbO
+- 3
+- )-------------------------------------------
+- -
+- 2.25
+- Indium
+- phosphide
+- (InP)----------------------------------------------3.21
+- Gallium
+- arsenide
+- (GaAs)
+- ---------------------------------------------3.35
+- Silicon
+- (Si)---------------------------------------------------------------3.48
+- Indium gallium arsenide
+- phosphide
+- (InGaAsP)-----------------3.51
+- Aluminum gallium arsenide
+- (AlGaAs)-----------------------------3.6
+- 0
+- Germanium (Ge)
+- -------------------------------------------------------4.0
+- 0
+- The
+- index
+- varies
+- with
+- a
+- number
+- of
+- parameters,
+- such
+- as
+- wavelength
+- and
+- temperature.
+- Refractive
+- Index
+- of
+- Some
+- Materials
+
+### Slide 15
+- 15
+- SUMMARY
+- Main components of optical fiber is core, cladding and buffer coating.
+- Core refractive index should be greater than cladding refractive index
+- Angle of incidence should be greater than critical angle for total internal reflection
+
+### Slide 16
+- Next Lecture
+- Acceptance angle
+- Acceptance cone
+- Derivation of Acceptance angle
+
+### Slide 17
+- FAQ
+- Q.1 Why silica is used for the fabrication of the optical fibers?
+- Q.2 What is the principle of fiber optical communication?
+- Q.3 Do signals really travel faster in fiber optics?
+- Q.4 What is a better way of communication, wire or fiber optics?
+- 17
+
+### Slide 18
+- References
+- [1]
+- https://www.assmann.pl/en/fiber-optic/
+- [2]
+- https://computer.howstuffworks.com/fiber-optic2.htm
+- [3]
+- https://www.vedantu.com/question-answer/define-critical-angle-and-also-find-formula-for-class-12-physics-cbse-5f9abcf7f1ba77035f68fcee
+- [4]
+- https://www.researchgate.net/figure/Shows-a-critical-angle-behavior-12_fig4_355432907
+- 18
+
+### Slide 19
+- Text book
+- Beiser
+- A.,
+- Ghatak
+- A,
+- Garg
+- S.C., Applied Physics, Edition 1st, (2013), Tata McGraw-Hill, Noida.
+- Laud B.B., Laser and Non -Linear Optics, Edition 1st, (1991), Wiley Eastern Ltd.
+- 19
+
+### Slide 20
+- E-learning resources
+- https://nptel.ac.in/courses/108104113
+- https://nptel.ac.in/courses/117101002
+- https://onlinecourses.nptel.ac.in/noc20_ph07/preview
+- https://nptel.ac.in/courses/108106167
+
+### Slide 21
+- Feedback Form
+- 21
+
+### Slide 22
+- Thank You
+- For queries
+- Email: nandni.e12297@cumail.in
+
+
+## Fiber Optics PPT 2 (3)
+### Slide 1
+- UNIVERSITY INSTITUTE OF ENGINEERING
+- DEPARTMENT: Engineering Foundations (1-5)
+- Bachelor of Eng
+- in
+- eering: CSE, CSE-Specialization and Non-CSE
+- 1
+- st
+- SEMESTER
+- ENGINEERING PHYSICS
+- 26SPH-141
+- Unit No. 3                     Chapter No. 2                     Lecture No. 40
+- Topic : Acceptance angle and cone
+- Dr.
+- Nandni
+- Sharma (E12297)						Assistant Professor
+- Academic Session 2026-27
+- ODD Semester July-Dec 2026
+
+### Slide 2
+- Learning Objectives
+- Objective 1.
+- Students will understand about
+- acceptance angle and acceptance cone.
+- Objective 2.
+- Students will able to understand
+- the relation between acceptance angle and refractive index of core and cladding.
+
+### Slide 3
+- Recap of Previous Lecture
+- Components of optical fiber
+- Critical angle
+- Total Internal reflection
+
+### Slide 4
+- Acceptance angle and acceptance cone
+- Acceptance angle
+- It is the maximum angle of a ray (against the fiber axis) hitting the
+- fiber core
+- which allows the incident light to be guided by the core.
+- 4
+- Figure 2.1 Acceptance angle of a typical step index fiber with a fiber core of refractive index n
+- 1
+- [1]
+- Acceptance angle
+
+### Slide 5
+- Acceptance cone
+- In fiber optics, the cone within which optical power may be coupled into the bound modes of an optical fiber. Here, the acceptance cone is derived by rotating the acceptance angle about the fiber axis.
+- 5
+- Figure 2.2 Acceptance cone of an optical fiber [2]
+
+### Slide 6
+- Expression of Acceptance angle
+- 6
+- Applying
+- Snell’
+- s
+- law
+- for
+- Air-Core
+- media
+- n
+- 0
+- sin
+- 
+- I
+- 
+- n
+- 1
+- sin
+- 
+- r
+- ..............(1)
+- from
+- the
+- right
+- angle
+- triangle
+- ABC
+- 
+- r
+- 
+- 
+- 
+- 90
+- 0
+- 
+- r
+- 
+- 90
+- 0
+- 
+- 
+- n
+- 0
+- sin
+- 
+- i
+- 
+- n
+- 1
+- sin (
+- 90
+- 0
+- 
+- 
+- )
+- n
+- 0
+- sin
+- 
+- i
+- 
+- n
+- 1
+- cos
+- 
+- sin
+- 
+- i
+- 
+- n
+- 1
+- n
+- 0
+- cos
+- 
+- .................(2)
+- Figure 2.5 Diagram of Acceptance angle [2]
+
+### Slide 7
+- when
+- 
+- 
+- critical
+- angle
+- (
+- 
+- c
+- )
+- 
+- 
+- i
+- 
+- 
+- m
+- sin
+- 
+- m
+- 
+- n
+- 1
+- n
+- 0
+- cos
+- 
+- c
+- ………………….
+- (3)
+- according
+- to
+- law
+- of
+- refraction
+- n
+- 1
+- sin
+- i
+- 
+- n
+- 2
+- sin
+- r
+- here
+- i
+- 
+- 
+- c
+- 
+- r
+- 
+- 90
+- sin
+- 
+- c
+- 
+- n
+- 2
+- n
+- 1
+- sin
+- 90
+- 
+- n
+- 2
+- n
+- 1
+- c
+- o
+- s
+- 
+- c
+- 
+- 1
+- −
+- 𝑠𝑖𝑛
+- 2
+- q
+- 
+- 1
+- −
+- 𝑛
+- 2
+- 𝑛
+- 1
+- 2
+- 7
+
+### Slide 8
+- C
+- o
+- s
+- 
+- c
+- 
+- 𝑛
+- 1
+- 2
+- −
+- 𝑛
+- 2
+- 2
+- 𝑛
+- 1
+- 2
+- ……………...........
+- (4)
+- s
+- u
+- b
+- s
+- t
+- i
+- t
+- u
+- t
+- e
+- e
+- q
+- u
+- a
+- t
+- i
+- on
+- (
+- 4
+- )
+- i
+- n
+- (
+- 3
+- )
+- sin
+- 
+- m
+- 
+- n
+- 1
+- n
+- 0
+- 𝑛
+- 1
+- 2
+- −
+- 𝑛
+- 2
+- 2
+- 𝑛
+- 1
+- 2
+- if
+- the
+- medium
+- surrounding
+- the
+- fiber
+- is
+- air,
+- then
+- n
+- 0
+- 
+- 1
+- sin
+- 
+- m
+- 
+- 𝑛
+- 1
+- 2
+- −
+- 𝑛
+- 2
+- 2
+- 
+- max
+- 
+- sin
+- −
+- 1
+- 𝑛
+- 1
+- 2
+- −
+- 𝑛
+- 2
+- 2
+- Which
+- is the
+- required
+- expression for maximum
+- Acceptance Angle
+- in
+- optical
+- fibers.
+- 8
+
+### Slide 9
+- Summary
+- 9
+- Critical angle &
+- Total
+- Internal
+- Reflection
+- Acceptance angle & acceptance
+- cone
+
+### Slide 10
+- Next Lecture
+- Numerical aperture
+- Relation between numerical aperture and acceptance angle
+- V-number or normalized frequency
+
+### Slide 11
+- FAQ
+- Q.1 Determine the expression for critical angle?
+- Q.2 Is acceptance angle depend on size of cable?
+- 11
+
+### Slide 12
+- References
+- [1] https://semesters.in/acceptance-angle-and-cone/
+- [2] ques10.com/p/21598/derive-the-expression-of-numerical-aperture-for-a-/
+- [3]
+- https://www.explainthatstuff.com/fiberoptics.html
+- [4]
+- https://www.rp-photonics.com/acceptance_angle_in_fiber_optics.html
+- [5]
+- https://iplts.com/physics/numerical-aperture-and-acceptance-angle.php#google_vignette
+- 12
+
+### Slide 13
+- Text book
+- Beiser
+- A.,
+- Ghatak
+- A,
+- Garg
+- S.C., Applied Physics, Edition 1st, (2013), Tata McGraw-Hill, Noida.
+- Laud B.B., Laser and Non -Linear Optics, Edition 1st, (1991), Wiley Eastern Ltd.
+- 13
+
+### Slide 14
+- E-learning resources
+- https://nptel.ac.in/courses/108104113
+- https://nptel.ac.in/courses/117101002
+- https://onlinecourses.nptel.ac.in/noc20_ph07/preview
+- https://nptel.ac.in/courses/108106167
+
+### Slide 15
+- Feedback Form
+- 15
+
+### Slide 16
+- Thank You
+- For queries
+- Email: nandni.e12297@cumail.in
+
+
+## Fiber Optics PPT 3 (3)
+### Slide 1
+- UNIVERSITY INSTITUTE OF ENGINEERING
+- DEPARTMENT: Engineering Foundations (1-5)
+- Bachelor of Eng
+- in
+- eering: CSE, CSE-Specialization and Non-CSE
+- 1
+- st
+- SEMESTER
+- ENGINEERING PHYSICS
+- 26SPH-141
+- Unit No. 3                     Chapter No. 2                     Lecture No. 42
+- Topic : Numerical Aperture and V-number
+- Dr.
+- Nandni
+- Sharma (E12297)						Assistant Professor
+- Academic Session 2026-27
+- ODD Semester July-Dec 2026
+
+### Slide 2
+- Learning Objectives
+- Objective 1.
+- Students will understand about
+- Numerical Aperture.
+- Objective 2.
+- Students will able to understand
+- the relation between Numerical Aperture  and Acceptance angle.
+- Objective 3.
+- Students will understand about V-number or Normalized frequency.
+
+### Slide 3
+- Recap of Previous Lecture
+- Acceptance angle
+- Acceptance cone
+- Acceptance angle derivation
+
+### Slide 4
+- NA
+- 
+- sin
+- 
+- max
+- sin
+- 
+- max
+- =
+- 𝑛
+- 1
+- 2
+- −
+- 𝑛
+- 2
+- 2
+- 𝑛
+- 0
+- 4
+- Expression of Numerical Aperture
+- Numerical Aperture
+- It defines gathering capability of fiber  mathematically expressed as sine
+- of
+- acceptance  angle
+- .
+- Fractional Index Change
+
+### Slide 5
+- 5
+- Relation between Numerical Aperture and Fractional Index Change
+
+### Slide 6
+- V-number or Normalized Frequency
+- V-number is a crucial parameter known as the normalized frequency. It's a dimensionless quantity used to determine the number of modes that can propagate within the fiber, which impacts the fiber's performance
+- V-
+- number can be reduced either by reducing  numerical aperture or by reducing diameter
+- of  fiber
+- V =
+- 2
+- 𝜋
+- 𝑎
+- λ
+- 𝑛
+- 1
+- 2
+- −
+- 𝑛
+- 2
+- 2
+- V =
+- 2
+- 𝜋
+- 𝑎
+- λ
+- 𝑁𝐴
+- V =
+- 2
+- 𝜋
+- 𝑎
+- λ
+- 𝑛
+- 1
+- 2
+- 
+- Number of modes for Step Index Fibre Nm =
+- 𝑉
+- 2
+- 2
+- For Graded Index Fiber Nm =
+- 𝑉
+- 2
+- 4
+- 6
+- Where
+- 𝑎
+- : Core radius
+
+### Slide 7
+- Normalized
+- frequency is a dimensionless
+- parameter
+- and
+- simply
+- called
+- V-number
+- or
+- value of the
+- fiber
+- .
+- It
+- combines
+- in a very useful
+- manner
+- the
+- information
+- about three
+- parameters,
+- a
+- ,
+- 
+- and
+- 
+- .
+- Limiting parameter for
+- single
+- and
+- multimode
+- propagation in  optical
+- fiber.
+- A fiber is considered single-mode if V < 2.405 and multimode if V > 2.405
+- 7
+
+### Slide 8
+- Summary
+- 8
+- Acceptance angle & acceptance
+- cone
+- Numerical
+- Aperture
+- V-Number
+
+### Slide 9
+- Next Lecture
+- Numerical aperture
+- Relation between numerical aperture and acceptance angle
+- V-number or normalized frequency
+
+### Slide 10
+- FAQ
+- Q.1 Give significance of V-Number
+- Q.2 How number of modes depend on V –Number?
+- 10
+
+### Slide 11
+- References
+- [1]
+- https://iplts.com/physics/numerical-aperture-and-acceptance-angle.php
+- [2] https://www.rp-photonics.com/numerical_aperture.html
+- [3]
+- https://www.rp-photonics.com/v_number.html
+- [4] https://www.newport.com/t/fiber-optic-basics
+- [5]
+- https://www.explainthatstuff.com/fiberoptics.html
+- 11
+
+### Slide 12
+- Text book
+- Beiser
+- A.,
+- Ghatak
+- A,
+- Garg
+- S.C., Applied Physics, Edition 1st, (2013), Tata McGraw-Hill, Noida.
+- Laud B.B., Laser and Non -Linear Optics, Edition 1st, (1991), Wiley Eastern Ltd.
+- 12
+
+### Slide 13
+- Next Lecture
+- Single mode and Multimode fiber
+- Step index and Graded index fiber
+- Advantages and disadvantages of single mode and multimode fiber
+
+### Slide 14
+- E-learning resources
+- https://nptel.ac.in/courses/108104113
+- https://nptel.ac.in/courses/117101002
+- https://onlinecourses.nptel.ac.in/noc20_ph07/preview
+- https://nptel.ac.in/courses/108106167
+
+### Slide 15
+- Feedback Form
+- 15
+
+### Slide 16
+- Thank You
+- For queries
+- Email: nandni.e12297@cumail.in
+
+
+## Fiber Optics PPT 4 5 (3)
+### Slide 1
+- UNIVERSITY INSTITUTE OF ENGINEERING
+- DEPARTMENT: Engineering Foundations (1-5)
+- Bachelor of Eng
+- in
+- eering: CSE, CSE-Specialization and Non-CSE
+- 1
+- st
+- SEMESTER
+- ENGINEERING PHYSICS
+- 26SPH-141
+- Unit No. 3                     Chapter No. 2                     Lecture No. 43
+- Topic : Types of Optical fiber
+- Dr.
+- Nandni
+- Sharma (E12297)						Assistant Professor
+- Academic Session 2026-27
+- ODD Semester July-Dec 2026
+
+### Slide 2
+- Learning Objectives
+- Objective 1.
+- Students will understand about
+- types of optical fiber.
+- Objective 2.
+- Students will able to understand
+- the advantages and disadvantages of single mode and multimode fiber..
+- Objective 3.
+- Students will understand about Step index and Graded index fiber.
+
+### Slide 3
+- Recap of Previous Lecture
+- Numerical aperture
+- Fractional index change
+- V-number or Normalized frequency
+
+### Slide 4
+- 4
+
+### Slide 5
+- Types of Optical
+- fibers based on
+- modes
+- and     refractive index
+- 5
+- Mode is the one which describes the nature of propagation of  electromagnetic waves in a wave guide.
+- It is the allowed direction whose associated angles satisfy the  conditions for
+- total internal reflection
+- and constructive  interference.
+- Based on the number of modes that propagates through the optical fiber, they are classified as:
+
+### Slide 6
+- Single Mode
+- fibers can propagate only the fundamental mode.
+- Multimode fibers
+- can propagate hundreds of modes.
+- Single
+- mode
+- fibers:
+- In
+- a
+- fiber,
+- if
+- only
+- one
+- mode
+- is
+- transmitted
+- through
+- it,
+- then
+- it
+- is
+- said
+- to
+- be
+- a
+- single mode
+- fiber.
+- A
+- typical
+- single
+- mode
+- fiber
+- may
+- have
+- a
+- core
+- radius
+- of 3
+- μm
+- and
+- a
+- numerical
+- aperture of
+- 0.1
+- at a
+- wavelength
+- of
+- 0.8
+- μm
+- .
+- 6
+- Figure 2.1 Single mode fiber [1]
+
+### Slide 7
+- Features
+- of
+- Single
+- Mode
+- Fiber
+- Only
+- one
+- path
+- is
+- available.
+- Core
+- diameter
+- is
+- small
+- No
+- dispersion
+- Higher band
+- width (1000
+- MHz)
+- Used
+- for
+- long haul
+- communication
+- Fabrication
+- is difficult and
+- costly
+- 7
+
+### Slide 8
+- Disadvantages
+- of
+- Single
+- Mode
+- Fiber
+- Difficult
+- to
+- couple light in and
+- out of the tiny
+- core
+- Highly
+- directive
+- light source (laser) is
+- required
+- Interfacing
+- modules are more
+- expensive
+- 8
+
+### Slide 9
+- Multi mode fibers
+- If
+- more
+- than
+- one
+- mode
+- is
+- transmitted
+- through
+- optical
+- fiber,
+- then
+- it
+- is
+- said
+- to be
+- a
+- multimode
+- fiber.
+- The
+- larger
+- core radius
+- of multimode fibers
+- make it
+- easier
+- to launch
+- optical
+- power into
+- the fiber
+- and
+- facilitate
+- the end
+- to end
+- connection
+- of
+- similar
+- powers.
+- Figure 2.2 Multimode Optical Fiber [8]
+- 9
+
+### Slide 10
+- Advantages
+- of
+- Multi-
+- Mode
+- Fiber
+- With a larger fiber core and good alignment tolerances
+- inexpensive
+- easy to couple light into
+- Fiber
+- multimode fiber cable also provides high speed and high bandwidth over short distances.
+- multimode fiber cable is often used in data and audio/video applications in LANs.
+- 10
+
+### Slide 11
+- Disadvantages
+- of
+- Multi-
+- Mode
+- Fiber
+- Multimode fiber cable has high dispersion and attenuation rate
+- The quality of optical signals is reduced as the transmission distance is getting longer.
+- 11
+
+### Slide 12
+- Step
+- index
+- fiber
+- 12
+- In a
+- step
+- index
+- fiber,
+- the
+- refractive
+- index changes
+- in a
+- step
+- fashion,
+- from
+- the
+- centre
+- of
+- the
+- fiber,
+- the
+- core,
+- to
+- the outer
+- shell,
+- the
+- cladding.
+- It
+- is
+- high
+- in
+- the
+- core
+- and
+- lower
+- in
+- the
+- cladding.
+- The
+- light
+- in
+- the
+- fiber
+- propagates
+- by
+- bouncing
+- back and
+- forth from
+- core-cladding
+- interface.
+- Figure 2.3 Single mode step index [1]
+
+### Slide 13
+- The
+- step
+- index fibers
+- propagate
+- both single and multimode
+- signals  within
+- the
+- fiber
+- core.
+- The
+- light
+- rays
+- propagating through
+- it
+- are
+- in
+- the
+- form
+- of
+- meridinal
+- rays
+- which
+- will
+- cross
+- the
+- fiber
+- core
+- axis during
+- every
+- reflection at
+- the
+- core
+- – cladding
+- boundary and
+- are
+- propagating
+- in a
+- zig
+- –
+- zag
+- manner.
+- Figure 2.4 Multimode Step index Fiber [2]
+- 13
+
+### Slide 14
+- Graded
+- index
+- fiber
+- In
+- graded index
+- fibers, the
+- refractive
+- index of
+- the core varies
+- gradually
+- as a function of
+- radial
+- distance
+- from
+- the
+- fiber
+- center.
+- The
+- refractive
+- index
+- of
+- the
+- core
+- decreases
+- as
+- we
+- move
+- away
+- from
+- the
+- centre.
+- The
+- refractive
+- index of
+- the core
+- is
+- made
+- to vary
+- in
+- the form of
+- parabolic
+- manner
+- such that
+- the
+- maximum
+- refractive
+- index is
+- present
+- at
+- the centre
+- of
+- the
+- core.
+- 14
+- Figure 2.5: Graded Index Fiber [2]
+
+### Slide 15
+- Summary of types
+- of
+- Fibers
+- 15
+- Figure 2.6 Different types Of optical
+- fibre
+- [4]
+
+### Slide 16
+- Advantages
+- of
+- optical fiber
+- communication
+- Increased
+- Bandwidth
+- and Channel
+- Capacity
+- Low
+- Signal
+- Attenuation
+- Immune
+- to
+- Noise
+- No
+- Crosstalk
+- Lower
+- Bit
+- Error
+- Rates
+- Signal
+- Security
+- Electrical
+- Isolation
+- Reduced
+- Size
+- and
+- Weight
+- of
+- Cables
+- Radiation
+- Resistant
+- and
+- Environment
+- Friendly
+- Resistant
+- to
+- Temperature
+- Variations
+- etc.
+- 16
+
+### Slide 17
+- Disadvantages
+- of optical
+- fiber
+- communication
+- Specialist skills
+- needed
+- Cost of
+- installation
+- Cost
+- of
+- transmission
+- equipment
+- from
+- electrical
+- to
+- optical signals
+- Optical
+- fibers
+- can
+- not
+- carry electrical
+- power
+- 17
+
+### Slide 18
+- Applications
+- of
+- optical fiber
+- communication
+- As fibers
+- are
+- very
+- flexible, they
+- are
+- used
+- in
+- flexible
+- digital
+- cameras.
+- Fibers
+- are
+- used in
+- mechanical imaging i.e.
+- for
+- inspection
+- of
+- mechanical welds
+- in
+- pipes and
+- engines of
+- rockets,
+- space shuttles,
+- airplanes.
+- Fibers
+- are
+- used
+- in
+- medical imaging such as endoscopes and
+- laparoscopes.
+- Fibers can be used
+- under
+- sea
+- communication.
+- Fibers
+- are
+- used
+- in
+- military applications such as
+- aircrafts,
+- ships, tanks
+- etc.
+- 18
+
+### Slide 19
+- Nuclear
+- testing applications use
+- optical fiber
+- phase
+- sensors and
+- transducers
+- Fibers
+- are
+- used
+- in
+- public
+- utility
+- organizations
+- like
+- railways,
+- TV
+- transmission
+- etc.
+- Fibers
+- are
+- used
+- in LAN
+- systems
+- of
+- offices, industrial plants and colleges
+- etc.
+- Fibers
+- are
+- used in
+- telecommunication such as
+- voice
+- telephones,
+- video
+- phones,
+- telegraph
+- services, message services and data
+- networks.
+- 19
+
+### Slide 20
+- Summary
+- 20
+- Types
+- of fibers
+- Single mode fiber advantages and disadvantages
+- Multimode fiber advantages and disadvantages
+- Step index fiber
+- Graded index fiber
+
+### Slide 21
+- Next Lecture
+- Attenuation loss
+- Causes of attenuation loss
+- Dispersion loss
+
+### Slide 22
+- FAQ
+- Q.1 Which fiber is preferred for under sea communication?
+- Q.2 Differentiate SMF and MMF Fibers.
+- Q.3 Which fiber is preferred for LAN cables?
+- 22
+
+### Slide 23
+- References
+- [1]
+- https://www.shiksha.com/online-courses/articles/optical-fiber/
+- [2]
+- https://www.ispreview.co.uk/index.php/2013/07/alcatel-lucent-breaks-record-with-31tbps-over-a-single-fibre-optic-cable.html
+- [3]
+- https://en.m.wikipedia.org/wiki/File:Optical_fiber_types.svg
+- [4]
+- https://www.explainthatstuff.com/fiberoptics.html
+- 23
+
+### Slide 24
+- Text book
+- Beiser
+- A.,
+- Ghatak
+- A,
+- Garg
+- S.C., Applied Physics, Edition 1st, (2013), Tata McGraw-Hill, Noida.
+- Laud B.B., Laser and Non -Linear Optics, Edition 1st, (1991), Wiley Eastern Ltd.
+- 24
+
+### Slide 25
+- E-learning resources
+- https://nptel.ac.in/courses/108104113
+- https://nptel.ac.in/courses/117101002
+- https://onlinecourses.nptel.ac.in/noc20_ph07/preview
+- https://nptel.ac.in/courses/108106167
+
+### Slide 26
+- Feedback Form
+- 26
+
+### Slide 27
+- Thank You
+- For queries
+- Email: nandni.e12297@cumail.in
+
+
+## Fiber Optics PPT 6 (4)
+### Slide 1
+- UNIVERSITY INSTITUTE OF ENGINEERING
+- DEPARTMENT: Engineering Foundations (1-5)
+- Bachelor of Eng
+- in
+- eering: CSE, CSE-Specialization and Non-CSE
+- 1
+- st
+- SEMESTER
+- ENGINEERING PHYSICS
+- 26SPH-141
+- Unit No. 3                     Chapter No. 2                     Lecture No. 43
+- Topic : Losses in Optical fiber
+- Dr.
+- Nandni
+- Sharma (E12297)						Assistant Professor
+- Academic Session 2026-27
+- ODD Semester July-Dec 2026
+
+### Slide 2
+- Learning Objectives
+- Objective 1.
+- Students will understand about
+- types of losses.
+- Objective 2.
+- Students will able to understand
+- the causes of Attenuation loss.
+- Objective 3.
+- Students will understand about Dispersion loss.
+
+### Slide 3
+- Recap of Previous Lecture
+- Types of optical fiber
+- Single mode and multimode fiber
+- Step index and Graded index
+
+### Slide 4
+- The
+- dispersion cause that optical pulses to broaden as they
+- travel
+- along
+- a
+- fiber,
+- the
+- overlap
+- between neighboring pulses,
+- creating
+- errors
+- in
+- the
+- receiver
+- output,
+- resulting
+- in
+- the limitation
+- of
+- information-carrying capacity
+- of a
+- fiber.
+- In
+- communication, dispersion
+- is used
+- to
+- describe
+- any
+- process
+- by
+- which
+- any
+- electromagnetic
+- signal
+- propagating
+- in a
+- physical
+- medium
+- is
+- degraded
+- because
+- the
+- various
+- wave
+- characteristics (i.e., frequencies)
+- of
+- the signal
+- have
+- different  propagation
+- velocities within the
+- physical
+- medium.
+- Types of Dispersion
+- Dispersion  are of
+- two
+- types:
+- Intra
+- modal or Chromatic
+- Dispersion
+- Intermodal or Modal
+- Dispersion
+- 4
+- D
+- ispersion
+- T
+- ypes
+
+### Slide 5
+- Intra
+- modal or Chromatic
+- Dispersion
+- Intramodal
+- or
+- Chromatic
+- dispersion
+- (CD)
+- is
+- caused
+- by
+- the fact
+- that single mode glass fibers
+- transmit
+- light of
+- different
+- wavelengths
+- at different speeds. The
+- ratio
+- of the speed of light in a  medium
+- to
+- the speed in a
+- vacuum
+- defines the
+- index
+- of
+- refraction
+- or
+- refractive
+- index
+- of
+- the  material.
+- Material
+- Dispersion
+- This is due
+- to
+- intrinsic properties of
+- the
+- material,
+- glass.
+- Glass is a
+- dispersive
+- medium.
+- We
+- can
+- recall from
+- our high school
+- physics
+- that glass
+- has
+- different
+- refractive
+- index
+- for
+- different
+- colors.
+- 5
+
+### Slide 6
+- Different
+- colors
+- (wavelengths)
+- have
+- different velocity
+- in
+- glass.
+- A type of
+- dispersion
+- that
+- occurs in optical fiber due
+- to the interaction
+- of
+- various wavelengths
+- with
+- the physical matter
+- in
+- the
+- crystalline
+- structure
+- of
+- the
+- glass.
+- The
+- refractive
+- index
+- of
+- the glass
+- varies
+- according
+- to the
+- wavelength
+- of
+- the
+- optical
+- signal.
+- Material
+- dispersion
+- is
+- the
+- phenomena
+- whereby
+- materials cause a “bundle” of light to
+- spread
+- out as it
+- propagates.
+- 6
+
+### Slide 7
+- This is due
+- dispersive nature
+- of
+- the
+- bound medium. In a bound medium
+- like
+- the
+- optical
+- fiber,
+- the velocity
+- is a function of
+- frequency.
+- Figure 2.1 Waveguide
+- dispersion
+- [1]
+- Waveguide
+- dispersion
+- is
+- chromatic
+- dispersion
+- which
+- arises
+- from
+- waveguide
+- effects:
+- the
+- dispersive
+- phase
+- shifts
+- for
+- a
+- wave
+- in a
+- waveguide
+- differ from
+- those
+- which the
+- wave
+- would experience
+- in a homogeneous medium
+- .
+- 7
+- Waveguide
+- Dispersion
+
+### Slide 8
+- Inter
+- modal or modal
+- Dispersion
+- In a
+- multimode fiber
+- different
+- modes
+- travel
+- at
+- different
+- velocities.
+- Figure 2.2 Modal
+- Dispersion [2]
+- 8
+
+### Slide 9
+- 9
+- If
+- a
+- pulse is
+- constituted from
+- different
+- modes
+- then
+- intermodal
+- dispersion
+- occurs.
+- Modal dispersion
+- is greatest in multimode step
+- index
+- fibers.
+- The
+- more
+- modes the
+- greater
+- the
+- modal
+- dispersion.
+- Typical bandwidth
+- of a
+- step
+- index
+- fiber
+- may
+- be
+- as
+- low
+- as
+- 10
+- MHz
+- over
+- 1
+- km.
+- Attenuation
+- in
+- Optical
+- Fibers
+- Attenuation
+- limits
+- the
+- optical
+- power
+- which can
+- reach
+- the
+- receiver,
+- limiting
+- the
+- operating
+- span
+- of a
+- system.
+- Once the
+- power
+- of
+- an optical pulse
+- is
+- reduced to
+- a
+- point
+- where
+- the
+- receiver
+- is
+- unable  to detect the pulse, an
+- error
+- occurs.
+
+### Slide 10
+- Attenuation
+- is
+- mainly
+- a
+- result
+- of:
+- Light
+- Absorption
+- Scattering of
+- light
+- Bending
+- losses
+- Attenuation
+- is
+- defined
+- as
+- the
+- ratio
+- of
+- optical
+- input
+- power
+- (P
+- in
+- )
+- to
+- the
+- optical
+- output
+- power
+- (P
+- out
+- ).
+- The
+- following
+- equation
+- defines signal attenuation as
+- a
+- unit
+- of
+- length
+- :
+- Attenuation =
+- α
+- =
+- 10
+- 𝐿
+- 𝐿𝑜𝑔
+- 10
+- 𝑃
+- 𝑖𝑛
+- 𝑃
+- 𝑜𝑢𝑡
+- 10
+- Attenuation
+- in
+- Optical
+- Fibers
+
+### Slide 11
+- Absorption
+- Loss:
+- Caused
+- by
+- the fiber itself
+- or
+- by
+- impurities
+- in
+- the
+- fiber,
+- such
+- as
+- water
+- and
+- metals.
+- Scattering
+- Loss:
+- Int
+- r
+- i
+- n
+- s
+- ic
+- los
+- s
+- mec
+- h
+- a
+- n
+- ism	ca
+- u
+- s
+- e
+- d
+- b
+- y
+- th
+- e	i
+- n
+- t
+- e
+- r
+- ac
+- ti
+- o
+- n
+- of
+- photons
+- with the glass
+- itself.
+- Bending
+- loss:
+- Loss induced
+- by
+- physical
+- stress on the
+- fiber.
+- 11
+- Types
+- of
+- Attenuation
+
+### Slide 12
+- Material Absorption
+- Losses
+- Material
+- absorption
+- is
+- caused
+- by
+- absorption
+- of
+- photons
+- within
+- the
+- fiber.
+- – When a
+- material
+- is
+- illuminated,
+- photons
+- can
+- make
+- the
+- valence
+- electrons  of
+- an
+- atom
+- transition
+- to
+- higher
+- energy
+- levels
+- –
+- Photon is
+- destroyed,
+- and the radiant
+- energy
+- is
+- transformed
+- into
+- electric  potential
+- energy.
+- This
+- energy
+- can
+- then
+- Be
+- re-emitted
+- (scattering)
+- Frees
+- the
+- electron
+- (photoelectric
+- effects)
+- (not
+- in
+- fibers)
+- Dissipated
+- to
+- the
+- rest
+- of
+- the
+- material
+- (transformed
+- into
+- heat)
+- In
+- an
+- optical
+- fiber
+- Material
+- Absorption
+- is
+- the
+- optical
+- power
+- that
+- is
+- effectively
+- converted
+- to
+- heat
+- dissipation
+- within
+- the
+- fiber.
+- Two
+- types of absorption
+- exist:
+- –
+- Intrinsic
+- Absorption
+- , caused
+- by
+- interaction
+- with one or
+- more
+- of the  components of the
+- glass.
+- –
+- Extrinsic
+- Absorption
+- ,
+- caused
+- by
+- impurities
+- within
+- the
+- glass.
+- 12
+
+### Slide 13
+- Intrinsic Absorption
+- is caused
+- by
+- basic fiber material
+- properties.
+- If
+- an
+- optical fiber
+- is absolutely pure,
+- with no imperfections
+- or
+- impurities,
+- ten
+- all
+- absorption
+- will
+- be intrinsic. Intrinsic absorption
+- in
+- the
+- ultraviolet
+- region
+- is
+- caused
+- by
+- electronic absorption bands.
+- Intrinsic
+- Absorption
+- occurs
+- when
+- a
+- light
+- particle (photon)
+- interacts
+- with
+- an
+- electron and
+- excites
+- it
+- to
+- a
+- higher  energy
+- level.
+- Extrinsic Absorption
+- is caused
+- by
+- impurities
+- caused
+- by
+- impurities  introduced
+- into
+- the fiber
+- material.
+- The metal
+- impurities
+- such
+- as
+- iron,
+- nickel
+- and
+- chromium are introduced into
+- the fiber during fabrication.
+- Extrinsic
+- Absorption
+- is
+- caused
+- by
+- the
+- electronic
+- transition
+- of these metal
+- ions
+- from
+- one
+- energy
+- level
+- to another energy
+- level.
+- 13
+
+### Slide 14
+- Fiber Bend
+- Losses
+- Bending loss is
+- classified
+- according to the bend
+- radius
+- of
+- curvature
+- :
+- 1.
+- Micro bend
+- Loss	2.
+- Macro bend
+- Loss
+- Micro bend
+- Loss
+- are
+- caused
+- by
+- small discontinuities or
+- imperfections in
+- the
+- fiber.
+- Uneven
+- coating
+- applications
+- and
+- improper cabling procedure increases  micro
+- bend loss. External
+- forces are
+- also
+- a
+- source
+- of
+- micro
+- bends.
+- 14
+
+### Slide 15
+- Micro bending and Macro bending
+- Loss
+- Macrobend
+- Losses
+- are
+- observed
+- when
+- a
+- fiber
+- bend’s radius
+- of
+- curvature
+- is
+- large compared to
+- the fiber
+- diameter.
+- These bends
+- are
+- a
+- great source
+- of
+- loss
+- when
+- the
+- radius
+- of
+- curvature
+- is less
+- than
+- several
+- centimeters.
+- 15
+- Figure 2.3 represent micro and
+- macrobend
+- in optical fiber [3]
+
+### Slide 16
+- Linear
+- Scattering
+- Losses
+- Light scattering
+- is a
+- form
+- of
+- scattering in
+- which light
+- in the
+- form
+- of
+- propagating
+- energy
+- is
+- scattered.
+- Light scattering can
+- be
+- thought
+- of
+- as
+- the
+- deflection
+- of a
+- ray
+- from
+- a
+- straight
+- path,
+- for  example
+- by
+- irregularities
+- in
+- the
+- propagation
+- medium, particles,
+- or
+- in the
+- interface  between two
+- media.
+- Deviations
+- from
+- the
+- law
+- of
+- reflection
+- due
+- to irregularities
+- on a
+- surface
+- are
+- also
+- usually
+- considered to be
+- a
+- form
+- of
+- scattering.
+- When these irregularities
+- are
+- considered
+- to
+- be random
+- and dense enough that their  individual
+- effects
+- average
+- out,
+- this kind
+- of
+- scattered reflection
+- is
+- commonly
+- referred
+- to as diffuse
+- reflection.
+- 16
+- Figure 2.4 Light scattering [4]
+
+### Slide 17
+- Summary
+- 17
+- Dispersion & its
+- types
+- Attenuation and Losses in
+- Fiber
+
+### Slide 18
+- FAQ
+- Q.1 Give types of dispersion losses.
+- Q.2 What is macro and micro bend?
+- Q.3 What is Attenuation loss?
+- 18
+
+### Slide 19
+- References
+- [1]
+- https://www.thefoa.org/tech/ref/testing/test/CD_PMD.html
+- [2]
+- https://www.modularphotonics.com/resources_modaldispersion/
+- [3]
+- https://www.researchgate.net/figure/Micro-bending-and-Macro-bending-loss_fig3_330385521
+- [4]
+- https://www.brainkart.com/article/Scattering-losses_11974/
+- [5] https://mefiberoptic.com/different-types-of-losses-in-optical-fiber/
+- [6]
+- https://www.meetoptics.com/academy/optical-fiber-loss#extrinsic-losses
+- [7]
+- https://www.geeksforgeeks.org/attenuation/
+- [8]
+- https://www.hfcl.com/blog/attenuationinopticalfiber
+- [9]
+- https://community.fs.com/encyclopedia/attenuation.html
+- [10]
+- https://www.elprocus.com/attenuation-in-optical-fibre-types-and-its-causes/
+- 19
+
+### Slide 20
+- Text book
+- Beiser
+- A.,
+- Ghatak
+- A,
+- Garg
+- S.C., Applied Physics, Edition 1st, (2013), Tata McGraw-Hill, Noida.
+- Laud B.B., Laser and Non -Linear Optics, Edition 1st, (1991), Wiley Eastern Ltd.
+- 20
+
+### Slide 21
+- E-learning resources
+- https://nptel.ac.in/courses/108104113
+- https://nptel.ac.in/courses/117101002
+- https://onlinecourses.nptel.ac.in/noc20_ph07/preview
+- https://nptel.ac.in/courses/108106167
+
+### Slide 22
+- Feedback Form
+- 22
+
+### Slide 23
+- Thank You
+- For queries
+- Email: nandni.e12297@cumail.in
